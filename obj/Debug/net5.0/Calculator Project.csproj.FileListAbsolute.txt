@@ -1,0 +1,15 @@
+D:\C#\Projects\Calculator Project\bin\Debug\net5.0\Calculator Project.exe
+D:\C#\Projects\Calculator Project\bin\Debug\net5.0\Calculator Project.deps.json
+D:\C#\Projects\Calculator Project\bin\Debug\net5.0\Calculator Project.runtimeconfig.json
+D:\C#\Projects\Calculator Project\bin\Debug\net5.0\Calculator Project.runtimeconfig.dev.json
+D:\C#\Projects\Calculator Project\bin\Debug\net5.0\Calculator Project.dll
+D:\C#\Projects\Calculator Project\bin\Debug\net5.0\Calculator Project.pdb
+D:\C#\Projects\Calculator Project\obj\Debug\net5.0\Calculator Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Projects\Calculator Project\obj\Debug\net5.0\Calculator Project.AssemblyInfoInputs.cache
+D:\C#\Projects\Calculator Project\obj\Debug\net5.0\Calculator Project.AssemblyInfo.cs
+D:\C#\Projects\Calculator Project\obj\Debug\net5.0\Calculator Project.csproj.CoreCompileInputs.cache
+D:\C#\Projects\Calculator Project\obj\Debug\net5.0\Calculator Project.dll
+D:\C#\Projects\Calculator Project\obj\Debug\net5.0\refint\Calculator Project.dll
+D:\C#\Projects\Calculator Project\obj\Debug\net5.0\Calculator Project.pdb
+D:\C#\Projects\Calculator Project\obj\Debug\net5.0\Calculator Project.genruntimeconfig.cache
+D:\C#\Projects\Calculator Project\obj\Debug\net5.0\ref\Calculator Project.dll
