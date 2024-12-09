@@ -91,13 +91,12 @@ namespace Calculator_Project
                 Console.Write("Do you want to continue? \n1. YES \n2. NO \nChoice: ");
                 while (!int.TryParse(Console.ReadLine(), out loops) || (loops != 1 && loops != 2))
                 {
-                    Console.WriteLine("Invalid input. Please enter 1 for YES or 2 for NO.");
+                    Console.WriteLine("Invalid input. Please enter 1 for YES or 2 for NO. \nChoice: ");
                 }
 
             } while (loops == 1);
 
             Console.WriteLine("Press Enter to Exit");
-            Console.ReadKey();
         }
     }
 }
